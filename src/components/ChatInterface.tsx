@@ -63,7 +63,7 @@ export const ChatInterface = () => {
         "Any interesting work?": "Sure! A few of my favorites:\n\n**BookIt** (https://aap26.github.io/bookit/) – A ride-fare comparison app that lets you see Uber & Lyft prices side-by-side before booking.\n**NearBy** (https://aap26.github.io/nearby/) – A social map that shows who's around you in real-time.\n**TripMate** (https://aap26.github.io/tripmate/) – A trip planning tools.\n\nBasically… if it has a map, an API, and a fun challenge, I'm in.",
         "Any hobbies?": "Yea, I do. I love flying. For me its recreational.",
         "May I contact you?": "Definitely! \nEmail: aashaypawar@outlook.com \nCall: 617-238-4119\n\n**Coffee?** (https://www.google.com/maps/place/32+McGreevey+Way+c,+Mission+Hill,+MA+02120/@42.3346513,-71.097367,17z/data=!3m1!4b1!4m5!3m4!1s0x89e37a2757e0bd07:0x9bdb5f1886d718a8!8m2!3d42.3346513!4d-71.097367?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D)",
-        "Online Presence": "**GeeksforGeeks** (https://auth.geeksforgeeks.org/user/aashaypawar)  \n**GitHub** (https://github.com/aap26)  \n**LeetCode** (https://leetcode.com/aashaypawar)  \n**HackerRank** (https://www.hackerrank.com/profile/aashay_pawar)  \n**Google Scholar** (https://scholar.google.com/citations?user=9UwnRSgAAAAJ&hl=en)"
+        "Online Presence": "**GeeksforGeeks** (https://www.geeksforgeeks.org/user/aashaypawar/contributions/)  \n**GitHub** (https://github.com/aap26)  \n**LeetCode** (https://leetcode.com/aashaypawar)  \n**HackerRank** (https://www.hackerrank.com/profile/aashay_pawar)  \n**Google Scholar** (https://scholar.google.com/citations?user=9UwnRSgAAAAJ&hl=en)"
 
       };
 
